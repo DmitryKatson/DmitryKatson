@@ -21,22 +21,20 @@ Agent protocols I work with: **MCP** (tools), **A2A** (agent-to-agent), **AG-UI*
 
 ## Business Central — 20+ years
 
+- **Microsoft MVP since 2018** — Business Central throughout (plus one year in the AI category); contributor to Microsoft's [BCApps](https://github.com/microsoft/BCApps) and advisor to the Business Central product team on Copilot, semantic search and agents.
 - **From Navision to Business Central:** developer, architect and team lead since the Navision days; founded and ran the NAV partner NavDesign (2010–2017).
 - **Solution architect** at Liberty Grove Software since 2018 — complex Business Central solutions and spec-driven agentic AL development rolled out across delivery teams.
 - **Finance domain:** author of patented financial management software for NAV — budgeting, treasury, consolidation and management accounting.
-- **Microsoft MVP since 2018**, now in the Business Central category; contributor to Microsoft's [BCApps](https://github.com/microsoft/BCApps) and advisor to the Business Central product team on Copilot, semantic search and agents.
-- **Educator:** trained 100+ partner organisations worldwide in Copilot development and agentic coding for AL; speaker at Directions EMEA / ASIA / NA, BC TechDays and Days of Knowledge.
+- **Educator:** trained 100+ partner organisations worldwide in Copilot development and agentic coding for AL; speaker at Directions EMEA / ASIA / NA, BC TechDays, Days of Knowledge and AgentCon.
 
 ## The journey — AI in ERP since 2016
 
 `2005` First Navision code →
 `2016` Azure Machine Learning models inside ERP processes →
-`2018` Microsoft MVP (AI) →
+`2018` Microsoft MVP →
 `2023` CentralQ.ai — RAG assistant for the Business Central community →
 `2024` Semantic search for ERP data (Microsoft BC AI Hackathon) · Number Series Copilot ships in the base app →
 `2025–26` MCP servers, multi-agent systems, spec-driven agentic development across engineering teams
-
-Full timeline of AI in Business Central: [business-central-ai-timeline](https://github.com/DmitryKatson/business-central-ai-timeline)
 
 ## Writing & speaking
 

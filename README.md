@@ -3,7 +3,7 @@
 **Applied AI leader · Business Central architect with 20+ years in the Navision → NAV → Business Central ecosystem.**
 Microsoft MVP since 2018 · Founder of [CentralQ.ai](https://centralq.ai) · Packt author
 
-I've been putting AI into ERP since 2016 — first machine learning, then copilots, now agents. Two decades of Business Central architecture tell me *where* AI actually helps a business; the AI work is how I deliver it. I design and ship systems people use every day: retrieval-augmented assistants, agents that write and run code, and MCP servers that connect LLMs to enterprise data.
+I've been putting AI into ERP since 2016 — first machine learning, then copilots, now agents. Twenty years of building Business Central solutions taught me where AI actually pays off — and where it's just a nice demo. I design and ship systems people use every day: retrieval-augmented assistants, agents that write and run code, and MCP servers that connect LLMs to enterprise data.
 
 ## What I build
 

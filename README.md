@@ -1,9 +1,9 @@
 # Dmitry Katson
 
-**Applied AI leader — LLMs, agentic systems and production AI.**
+**Applied AI leader · Business Central architect with 20+ years in the Navision → NAV → Business Central ecosystem.**
 Microsoft MVP since 2018 · Founder of [CentralQ.ai](https://centralq.ai) · Packt author
 
-I've been putting AI into ERP since 2016 — first machine learning, then copilots, now agents. I design and ship systems people use every day: retrieval-augmented assistants, agents that write and run code, and MCP servers that connect LLMs to enterprise data.
+I've been putting AI into ERP since 2016 — first machine learning, then copilots, now agents. Two decades of Business Central architecture tell me *where* AI actually helps a business; the AI work is how I deliver it. I design and ship systems people use every day: retrieval-augmented assistants, agents that write and run code, and MCP servers that connect LLMs to enterprise data.
 
 ## What I build
 
@@ -11,15 +11,25 @@ I've been putting AI into ERP since 2016 — first machine learning, then copilo
 |---|---|
 | [**CentralQ.ai**](https://centralq.ai) | AI assistant with RAG over a curated vector database of ~135k Business Central community articles. 500k+ queries from 70+ countries. Data Insights Agent + CentralQ MCP server. |
 | [**mcp-business-central-server**](https://github.com/DmitryKatson/mcp-business-central-server) | MCP server for Microsoft Dynamics 365 Business Central — OAuth2, API v2.0, smart metadata discovery. Lets any MCP-capable agent work with live ERP data. |
+| [**Business Central Semantic Search**](https://github.com/DmitryKatson/Business-Central-Semantic-Search) | Vector-based semantic search over Business Central data, built at the Microsoft BC AI Hackathon 2024 with Stefano Demiliani and Jeremy Vyska. |
 | [**bc-code-interpreter**](https://github.com/DmitryKatson/bc-code-interpreter) | Natural-language data analysis for ERP: the LLM writes Python, runs it in a sandboxed Azure Function against live APIs, self-corrects on errors and summarises the results. |
 | [**bc-al-interpreter**](https://github.com/DmitryKatson/bc-al-interpreter) | Runs AL snippets inside Business Central at runtime — for troubleshooting, demos and agent tooling. |
-| [**Number Series Copilot**](https://github.com/DmitryKatson/Blog.BC-Copilot-Toolkit.Number-Series-Copilot) | One of the first partner-built Copilot features merged into Microsoft Dynamics 365 Business Central (Contribution Hero Award 2024). |
+| [**Number Series Copilot**](https://github.com/DmitryKatson/Blog.BC-Copilot-Toolkit.Number-Series-Copilot) | One of the first partner-built Copilot features merged into the Business Central base app (Contribution Hero Award 2024). |
 | [**Directions EMEA 24 — Agent demos**](https://github.com/DmitryKatson/Directions-EMEA-24-Autogen-Agents) | Multi-agent patterns over the Business Central API with AutoGen and Semantic Kernel. |
 
 Agent protocols I work with: **MCP** (tools), **A2A** (agent-to-agent), **AG-UI** (agent-to-user interface).
 
+## Business Central — 20+ years
+
+- **From Navision to Business Central:** developer, architect and team lead since the Navision days; founded and ran the NAV partner NavDesign (2010–2017).
+- **Solution architect** at Liberty Grove Software since 2018 — complex Business Central solutions and spec-driven agentic AL development rolled out across delivery teams.
+- **Finance domain:** author of patented financial management software for NAV — budgeting, treasury, consolidation and management accounting.
+- **Microsoft MVP since 2018**, now in the Business Central category; contributor to Microsoft's [BCApps](https://github.com/microsoft/BCApps) and advisor to the Business Central product team on Copilot, semantic search and agents.
+- **Educator:** trained 100+ partner organisations worldwide in Copilot development and agentic coding for AL; speaker at Directions EMEA / ASIA / NA, BC TechDays and Days of Knowledge.
+
 ## The journey — AI in ERP since 2016
 
+`2005` First Navision code →
 `2016` Azure Machine Learning models inside ERP processes →
 `2018` Microsoft MVP (AI) →
 `2023` CentralQ.ai — RAG assistant for the Business Central community →

@@ -9,7 +9,7 @@ I've been putting AI into ERP since 2016 — first machine learning, then copilo
 
 | Project | What it is |
 |---|---|
-| [**CentralQ.ai**](https://centralq.ai) | AI assistant with RAG over a curated vector database of ~135k Business Central community articles. 500k+ queries from 70+ countries. Data Insights Agent + CentralQ MCP server. |
+| [**CentralQ.ai**](https://centralq.ai) | AI assistant with RAG over a curated vector database of ~135k Business Central community articles. 1M+ queries from 70+ countries. Data Insights Agent + CentralQ MCP server. |
 | [**mcp-business-central-server**](https://github.com/DmitryKatson/mcp-business-central-server) | MCP server for Microsoft Dynamics 365 Business Central — OAuth2, API v2.0, smart metadata discovery. Lets any MCP-capable agent work with live ERP data. |
 | [**Business Central Semantic Search**](https://github.com/DmitryKatson/Business-Central-Semantic-Search) | Vector-based semantic search over Business Central data, built at the Microsoft BC AI Hackathon 2024 with Stefano Demiliani and Jeremy Vyska. |
 | [**bc-code-interpreter**](https://github.com/DmitryKatson/bc-code-interpreter) | Natural-language data analysis for ERP: the LLM writes Python, runs it in a sandboxed Azure Function against live APIs, self-corrects on errors and summarises the results. |
